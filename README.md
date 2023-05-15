@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Instruction for this project
+Using ReactJS and fetch and simple REST API create a Simple Book Management System 
+
+that can 
+ - add book to a database
+ - show all books on the database
+ - on adding a new Book to database, refresh the list of books shown to get the new Data that was entered
+ - add a search function that shows the details of the specific book that was entered in the search bar (50pts)
+
+Note: Record/Video the output of your program the same as the one i attached in this Exercise.
+also show the content of your mysql database on the recording.
+
+Instruction Video: https://drive.google.com/file/d/10Km0TRerU__Cj-mowV1YHuKIN9GeAqK4/view
